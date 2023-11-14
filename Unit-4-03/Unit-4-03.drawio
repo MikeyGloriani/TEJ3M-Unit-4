@@ -1,0 +1,46 @@
+<mxfile host="65bd71144e">
+    <diagram id="XLf0YkoMVfi3GiiFKcuV" name="Page-1">
+        <mxGraphModel dx="476" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;rounded=0;endArrow=none;endFill=0;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.batteryStack;rotation=-90;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="180" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="150" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" style="edgeStyle=none;shape=connector;rounded=0;html=1;exitX=0;exitY=0.57;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" parent="1" source="5" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=none;shape=connector;rounded=0;html=1;exitX=1;exitY=0.57;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" parent="1" source="5" target="2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.led_2;pointerEvents=1;fontFamily=Helvetica;fontSize=11;fontColor=default;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="325" y="175" width="100" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="160" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="230" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="5 V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="195" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="220&amp;nbsp;Ω" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="245" y="110" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Red LED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="410" y="190" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Created by: Mikey Gloriani&lt;br&gt;Created on: November 2023&lt;br&gt;Unit-4-03" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="75" y="40" width="160" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
